@@ -39,3 +39,4 @@ The following steps were performed to create an incident ticket in ServiceNow:
 This lab successfully demonstrated the process of creating a new incident ticket in ServiceNow, from logging in to submitting the complete incident record. This fundamental skill is essential for IT support and service management roles utilizing the ServiceNow platform.
 
 Below is the link to my Loom account where I demonstrate this lab. 
+https://www.loom.com/share/2dd73b8b4da14836a2799ba1a2e3c875?sid=a3140f3f-b176-40f7-b873-7e9f6890dfc1
